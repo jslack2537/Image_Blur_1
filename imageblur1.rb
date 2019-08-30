@@ -1,6 +1,7 @@
 #image blur 1
 class Image
-      attr_accessor :image
+
+     
 
       def initialize(image)
 
